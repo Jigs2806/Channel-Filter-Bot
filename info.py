@@ -5,4 +5,4 @@ SESSION      = "BQFo1qUApe9b2HC--3QSIpmV0GfRzVIMuoUTslwxhgdqe2ObBLrvZcE_VNxKPSnY
 DATABASE_URI = "mongodb+srv://ItsJigs007:Jigs@123@cluster0.szmovs3.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001989030079
 ADMIN        = 5808691633
-CHANNEL      = "@GreyMatter_Bots"
+CHANNEL      = "@Cineheart_Movies"
