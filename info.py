@@ -2,7 +2,7 @@ API_ID       = 12881508
 API_HASH     = "34c2220737ecc7649e2284737fb3e5ed"
 BOT_TOKEN    = "6214176172:AAFhbES3otboBauXcPi4888rmzHOVMPpZSY"
 SESSION      = "BQDEjmQAoB1ommE6ed1A5whKNVjhHVdCdX4D3AQvqAlVtrBkxiG4ixOtEaEGDkrILIRnlrOTWg8q1RYwlCg1RmQ2-whH1Ia5wHUXCx4RQyX4O2frsW2P7UnikeNMJOF3xaclR3mH1GN1NTir-fBVxqy00gz72UW-hQtarBjTqGwteqWLVPT660JOEa0BrD5He4wO_VNyYNq5Es2wocdapo3SFHyhHxYLtDhsFpqHIHj53onVnMbkv_CdAfGs2MqHkJJL-YJ_lbgYfd1CpkNZnb03l3xmyiNRK078aZ9ZIkHk5m9qDqvrehwAbnnl60bWR6Ah0yj9AQ_ABoYcW1RdlUet5UpO9wAAAAE0wSu5AA"
-DATABASE_URI = "mongodb+srv://ItsJigs007:Jigs@123@cluster0.szmovs3.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://Jigs007:9ffdace04@cluster0.ggd0bvy.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001723274804
 ADMIN        = 5180042169
 CHANNEL      = "@Cineheart_Movies"
