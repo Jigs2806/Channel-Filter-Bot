@@ -20,7 +20,7 @@ Get connected channels list with - /connections"""
     ABOUT = """Developed By @Cineheart_Movies
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Cineheart_Movies'>Jigs Thakor</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Its_Jigs_007'>Jigs Thakor</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: : <a href='https://heroku.com'>Heroku</a>"""
