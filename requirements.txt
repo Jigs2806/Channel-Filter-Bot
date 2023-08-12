@@ -1,5 +1,5 @@
-httpcore==0.13.0
-pyrogram==2.0.106
+httpcore>=0.9.0
+pyrogram 
 tgcrypto
 motor[srv] 
 cinemagoer
