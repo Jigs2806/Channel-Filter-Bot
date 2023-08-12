@@ -1,4 +1,4 @@
-httpcore==*
+httpcore==0.17.3
 pyrogram 
 tgcrypto
 motor[srv] 
