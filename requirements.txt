@@ -1,4 +1,4 @@
-httpcore>=0.9.0
+httpcore==*
 pyrogram 
 tgcrypto
 motor[srv] 
