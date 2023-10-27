@@ -1,5 +1,6 @@
 import asyncio
 from .helpers import *
+from .info import DATABASE_URI  # Import DATABASE_URI from info.py
 from time import time
 from client import DlBot
 
