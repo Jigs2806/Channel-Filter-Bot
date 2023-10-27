@@ -1,5 +1,7 @@
 import asyncio
 from pyrogram import enums
+from info import DATABASE_URI
+
 from imdb import Cinemagoer
 from pymongo.errors import DuplicateKeyError
 from pyrogram.errors import UserNotParticipant
